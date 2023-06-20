@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jasunburdick
-- 👀 I’m interested in vollyball, juggling, games,...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in building games, mechatronics, building automation, and fun
+- 🌱 I’m currently learning Python, Unity, Arduino, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 jasunburdick/jasunburdick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
